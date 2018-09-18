@@ -1,4 +1,4 @@
-# ClueBot
+# ClueBot [![License](https://img.shields.io/github/license/ZeroMemes/ClueBot.svg)](LICENSE)
 A program I made a while ago to assist you in playing the board game clue.
 It has been rotting on my laptop's HDD for 9 months at this point.
 
