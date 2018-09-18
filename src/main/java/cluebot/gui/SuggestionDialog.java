@@ -10,7 +10,7 @@ import com.intellij.uiDesigner.core.Spacer;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.KeyEvent;
 import java.util.function.Consumer;
 
 public final class SuggestionDialog extends JDialog {

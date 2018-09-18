@@ -1,7 +1,6 @@
 package cluebot.gui;
 
 import cluebot.ClueBot;
-import cluebot.GameContext;
 import cluebot.game.Card;
 import cluebot.game.Player;
 import cluebot.util.TableHelper;

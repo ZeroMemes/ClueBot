@@ -1,6 +1,9 @@
 package cluebot;
 
-import cluebot.game.*;
+import cluebot.game.Card;
+import cluebot.game.Case;
+import cluebot.game.Player;
+import cluebot.game.Suggestion;
 import cluebot.gui.GuiMain;
 import cluebot.listener.SuggestionUpdateListener;
 import cluebot.util.UIHelper;
